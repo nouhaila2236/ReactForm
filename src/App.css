@@ -1,5 +1,31 @@
+form.container.mt-3.mt-3 {
+  max-width: 550px;
+}
+label.form-label, .form-check {
+    color: pink;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: cursive;
+    line-height: 30px;
+}
+.col.col-sm-6 {
+  margin-bottom: 10px;
+}
+button.btn.btn-primary {
+  background: pink;
+  border: 0px;
+  width: 100%;
+  color: #282c34;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+small.text-muted.form-text {
+  color: #e4e4e48f!important;
+  font-size: 15px;
+}
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
